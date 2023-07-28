@@ -42,6 +42,13 @@ playerList.dob(29);
 // Output: '1997-11-26'
 ```
 
+### Getting specific player's NUMBER
+
+```js
+playerList.dob(14);
+// Output: '1997-11-26'
+```
+
 ### Getting specific player's POSITION
 
 ```js

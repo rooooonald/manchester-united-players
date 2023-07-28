@@ -22,9 +22,10 @@ const findPlayerByName = (playerName) => {
 const calculateAge = (dob) => {
   const dateOfBirth = new Date(dob);
   const ageInSeconds = Date.now() - dateOfBirth.getTime();
-  const toYear = 60 * 60 * 24 * 364.25;
 
-  const age = ageInSeconds / toYear;
+  var age_dateFormat = new Date(ageInSeconds);
+  var year = age_dateFormat.getUTCFullYear();
+  var age = Math.abs(year - 1970);
 
   return age;
 };
@@ -96,7 +97,7 @@ exports.age = (playerNum) => {
     throw new Error(`Player No.${playerNum} does not exist.`);
   }
 
-  const age = calculateAge(selectedPlayer.dob);
+  const playerAge = calculateAge(selectedPlayer.dob);
 
-  return selectedPlayer.age;
+  return playerAge;
 };
