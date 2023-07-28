@@ -1,0 +1,212 @@
+[
+  {
+    "number": 2,
+    "name": "Victor Lindelof",
+    "nationality": "Sweden",
+    "position": "Centre-back",
+    "dob": "1994-07-17"
+  },
+  {
+    "number": 3,
+    "name": "Eric Bailly",
+    "nationality": "Ivory Coast",
+    "position": "Centre-back",
+    "dob": "1994-04-12"
+  },
+  {
+    "number": 5,
+    "name": "Harry Maguire",
+    "nationality": "England",
+    "position": "Centre-back",
+    "dob": "1993-03-05"
+  },
+  {
+    "number": 6,
+    "name": "Lisandro Martínez",
+    "nationality": "Argentina",
+    "position": "Centre-back",
+    "dob": "1998-01-18"
+  },
+  {
+    "number": 7,
+    "name": "Mason Mount",
+    "nationality": "England",
+    "position": "Attacking Midfielder",
+    "dob": "1999-01-10"
+  },
+  {
+    "number": 8,
+    "name": "Bruno Fernandes",
+    "nationality": "Portugal",
+    "position": "Attacking Midfielder",
+    "dob": "1994-09-08"
+  },
+  {
+    "number": 9,
+    "name": "Anthony Martial",
+    "nationality": "France",
+    "position": "Forward",
+    "dob": "1995-12-05"
+  },
+  {
+    "number": 10,
+    "name": "Marcus Rashford",
+    "nationality": "England",
+    "position": "Forward",
+    "dob": "1997-10-31"
+  },
+  {
+    "number": 11,
+    "name": "Mason Greenwood",
+    "nationality": "England",
+    "position": "Forward",
+    "dob": "2001-10-01"
+  },
+  {
+    "number": 12,
+    "name": "Tyrell Malacia",
+    "nationality": "Netherlands",
+    "position": "Full-back",
+    "dob": "1999-08-17"
+  },
+  {
+    "number": 14,
+    "name": "Christian Eriksen",
+    "nationality": "Denmark",
+    "position": "Midfielder",
+    "dob": "1992-02-14"
+  },
+  {
+    "number": 16,
+    "name": "Amad Diallo",
+    "nationality": "Ivory Coast",
+    "position": "Winger",
+    "dob": "2002-07-11"
+  },
+  {
+    "number": 17,
+    "name": "Fred",
+    "nationality": "Brazil",
+    "position": "Midfielder",
+    "dob": "1993-03-05"
+  },
+  {
+    "number": 18,
+    "name": "Casemiro",
+    "nationality": "Brazil",
+    "position": "Defensive Midfielder",
+    "dob": "1992-02-23"
+  },
+  {
+    "number": 19,
+    "name": "Raphael Varane",
+    "nationality": "France",
+    "position": "Centre-back",
+    "dob": "1993-04-25"
+  },
+  {
+    "number": 20,
+    "name": "Diogo Dalot",
+    "nationality": "Portugal",
+    "position": "Full-back",
+    "dob": "1999-03-28"
+  },
+  {
+    "number": 21,
+    "name": "Antony",
+    "nationality": "Brazil",
+    "position": "Winger",
+    "dob": "2000-02-24"
+  },
+  {
+    "number": 22,
+    "name": "Tom Heaton",
+    "nationality": "England",
+    "position": "Goalkeeper",
+    "dob": "1986-04-15"
+  },
+  {
+    "number": 23,
+    "name": "Luke Shaw",
+    "nationality": "England",
+    "position": "Full-back",
+    "dob": "1995-07-12"
+  },
+  {
+    "number": 24,
+    "name": "Andre Onana",
+    "nationality": "Cameroon",
+    "position": "Goalkeeper",
+    "dob": "1996-04-02"
+  },
+  {
+    "number": 25,
+    "name": "Jadon Sancho",
+    "nationality": "England",
+    "position": "Winger",
+    "dob": "2000-03-25"
+  },
+  {
+    "number": 26,
+    "name": "Dean Henderson",
+    "nationality": "England",
+    "position": "Goalkeeper",
+    "dob": "1997-03-12"
+  },
+  {
+    "number": 28,
+    "name": "Facundo Pellistri",
+    "nationality": "Uruguay",
+    "position": "Winger",
+    "dob": "2001-12-20"
+  },
+  {
+    "number": 29,
+    "name": "Aaron Wan Bissaka",
+    "nationality": "England",
+    "position": "Full-back",
+    "dob": "1997-11-26"
+  },
+  {
+    "number": 33,
+    "name": "Brandon Williams",
+    "nationality": "England",
+    "position": "Full-back",
+    "dob": "2000-09-03"
+  },
+  {
+    "number": 34,
+    "name": "Donny van de Beek",
+    "nationality": "Netherlands",
+    "position": "Midfielder",
+    "dob": "1997-04-18"
+  },
+  {
+    "number": 37,
+    "name": "Kobbie Mainoo",
+    "nationality": "England",
+    "position": "Midfielder",
+    "dob": "2005-04-19"
+  },
+  {
+    "number": 39,
+    "name": "Scott McTominay",
+    "nationality": "Scotland",
+    "position": "Midfielder",
+    "dob": "1996-12-08"
+  },
+  {
+    "number": 42,
+    "name": "Álvaro Fernandez",
+    "nationality": "Spain",
+    "position": "Full-back",
+    "dob": "2003-03-23"
+  },
+  {
+    "number": 49,
+    "name": "Alejandro Garnacho",
+    "nationality": "Argentina",
+    "position": "Winger",
+    "dob": "2004-07-01"
+  }
+]

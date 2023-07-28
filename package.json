@@ -1,0 +1,29 @@
+{
+  "name": "manchester-united-players",
+  "version": "1.0.0",
+  "description": "Getting Manchester United's current first team players' information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rooooonald/manchester-united-players.git"
+  },
+  "keywords": [
+    "manchester",
+    "united",
+    "manchesterunited",
+    "reddevils",
+    "red",
+    "devils",
+    "manutd",
+    "mufc"
+  ],
+  "author": "CHENG HO CHI RONALD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rooooonald/manchester-united-players/issues"
+  },
+  "homepage": "https://github.com/rooooonald/manchester-united-players#readme"
+}
