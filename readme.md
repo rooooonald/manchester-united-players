@@ -14,14 +14,14 @@ $ npm install manchester-united-players
 const playerList = require("manchester-united-players");
 ```
 
-### Getting all player information
+### Getting ALL player information
 
 ```js
 playerList.all();
 // Output: [{"number": 2,"name": "Victor Lindelof", …} …]
 ```
 
-### Getting all players' names
+### Getting ALL players' names
 
 ```js
 playerList.allNames();
@@ -42,11 +42,11 @@ playerList.dob(29);
 // Output: '1997-11-26'
 ```
 
-### Getting specific player's NUMBER
+### Getting specific player's AGE
 
 ```js
-playerList.dob(14);
-// Output: '1997-11-26'
+playerList.age(5);
+// Output: '30'
 ```
 
 ### Getting specific player's POSITION
