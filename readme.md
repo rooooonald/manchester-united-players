@@ -1,6 +1,6 @@
 # Manchester United Players
 
-> Manchester United's current first team players' information.
+> Manchester United's current first team players' information. _(Last Update: 3rd September 2023)_
 
 ## Install
 
