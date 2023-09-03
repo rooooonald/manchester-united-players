@@ -1,10 +1,10 @@
 {
   "name": "manchester-united-players",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Manchester United's current first team players' information.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node testing.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/rooooonald/manchester-united-players/issues"
   },
-  "homepage": "https://github.com/rooooonald/manchester-united-players#readme"
+  "homepage": "https://github.com/rooooonald/manchester-united-players#readme",
+  "dependencies": {
+    "manchester-united-players": "^1.0.4"
+  }
 }

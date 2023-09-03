@@ -1,6 +1,7 @@
 # Manchester United Players
 
-> Manchester United's current first team players' information. _(Last Update: 3rd September 2023)_
+> Manchester United's current first team players' information.
+> _(Last Update: 3rd September 2023)_
 
 ## Install
 
@@ -17,7 +18,7 @@ const mufcPlayer = require("manchester-united-players");
 ### Getting ALL players' information
 
 ```js
-mufcPlayer.all();
+mufcPlayer.all;
 // Output: [{"number": 2,"name": "Victor Lindelof", …} …]
 ```
 
@@ -25,7 +26,7 @@ mufcPlayer.all();
 
 ```js
 mufcPlayer.allNames();
-// Output: ['Victor Lindelof', 'Eric Bailly', 'Harry Maguire' …]
+// Output: ['Altay Bayindir', 'Victor Lindelof', 'Eric Bailly', 'Harry Maguire' …]
 ```
 
 ### Getting specific player's NAME
@@ -42,7 +43,7 @@ mufcPlayer.name(8);
 #### Params: Squad Number
 
 ```js
-mufcPlayers.dob(29);
+mufcPlayer.dob(29);
 // Output: '1997-11-26'
 ```
 
@@ -82,5 +83,5 @@ mufcPlayer.number("masonmount");
 // Output: 7
 
 mufcPlayer.number("ALEJANDRo      GARnaCHo");
-// Output: 49
+// Output: 17
 ```
