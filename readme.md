@@ -1,6 +1,6 @@
 # Manchester United Players
 
-> Getting Manchester United's current first team players' information.
+> Manchester United's current first team players' information.
 
 ## Install
 
@@ -11,64 +11,76 @@ $ npm install manchester-united-players
 ## Usage
 
 ```js
-const playerList = require("manchester-united-players");
+const mufcPlayer = require("manchester-united-players");
 ```
 
-### Getting ALL player information
+### Getting ALL players' information
 
 ```js
-playerList.all();
+mufcPlayer.all();
 // Output: [{"number": 2,"name": "Victor Lindelof", …} …]
 ```
 
 ### Getting ALL players' names
 
 ```js
-playerList.allNames();
+mufcPlayer.allNames();
 // Output: ['Victor Lindelof', 'Eric Bailly', 'Harry Maguire' …]
 ```
 
 ### Getting specific player's NAME
 
+#### Params: Squad Number
+
 ```js
-playerList.name(8);
+mufcPlayer.name(8);
 // Output: 'Bruno Fernandes'
 ```
 
 ### Getting specific player's DATE OF BIRTH
 
+#### Params: Squad Number
+
 ```js
-playerList.dob(29);
+mufcPlayers.dob(29);
 // Output: '1997-11-26'
 ```
 
 ### Getting specific player's AGE
 
+#### Params: Squad Number
+
 ```js
-playerList.age(5);
+mufcPlayer.age(5);
 // Output: '30'
 ```
 
 ### Getting specific player's POSITION
 
+#### Params: Squad Number
+
 ```js
-playerList.position(19);
+mufcPlayer.position(19);
 // Output: 'Centre-back'
 ```
 
 ### Getting specific player's NATIONALITY
 
+#### Params: Squad Number
+
 ```js
-playerList.nationality(2);
+mufcPlayer.nationality(2);
 // Output: 'Sweden'
 ```
 
 ### Getting specific player's NUMBER
 
+#### Params: Player's Full Name
+
 ```js
-playerList.nationality("masonmount");
+mufcPlayer.number("masonmount");
 // Output: 7
 
-playerList.nationality("ALEJANDRo      GARnaCHo");
+mufcPlayer.number("ALEJANDRo      GARnaCHo");
 // Output: 49
 ```

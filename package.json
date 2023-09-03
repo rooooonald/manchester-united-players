@@ -1,7 +1,7 @@
 {
   "name": "manchester-united-players",
-  "version": "1.0.2",
-  "description": "Getting Manchester United's current first team players' information.",
+  "version": "1.0.3",
+  "description": "Manchester United's current first team players' information.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

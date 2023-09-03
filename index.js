@@ -1,16 +1,16 @@
 "use strict";
 
-const playerList = require("./data/players.json");
+const mufcPlayer = require("./data/players.json");
 
 const findPlayerByNum = (playerNum) => {
-  const selectedPlayer = playerList.find((player) => {
+  const selectedPlayer = mufcPlayer.find((player) => {
     return player.number === playerNum;
   });
   return selectedPlayer;
 };
 
 const findPlayerByName = (playerName) => {
-  const selectedPlayer = playerList.find((player) => {
+  const selectedPlayer = mufcPlayer.find((player) => {
     return (
       player.name.toLowerCase().replace(/ /g, "") ===
       playerName.toLowerCase().replace(/ /g, "")
@@ -30,10 +30,10 @@ const calculateAge = (dob) => {
   return age;
 };
 
-exports.all = playerList;
+exports.all = mufcPlayer;
 
 exports.allNames = () => {
-  const playerNames = playerList.map((player) => {
+  const playerNames = mufcPlayer.map((player) => {
     return player.name;
   });
 
