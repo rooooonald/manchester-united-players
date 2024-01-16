@@ -1,7 +1,7 @@
 # Manchester United Players
 
 > Manchester United's current first team players' information.
-> _(Last Update: 3rd September 2023)_
+> _(Last Update: 15th January 2024)_
 
 ## Install
 
@@ -26,7 +26,7 @@ mufcPlayer.all;
 
 ```js
 mufcPlayer.allNames();
-// Output: ['Altay Bayindir', 'Victor Lindelof', 'Eric Bailly', 'Harry Maguire' …]
+// Output: ['Altay Bayindir', 'Victor Lindelof', 'Harry Maguire' …]
 ```
 
 ### Getting specific player's NAME

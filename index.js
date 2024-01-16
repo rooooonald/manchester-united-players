@@ -21,9 +21,9 @@ const findPlayerByName = (playerName) => {
 
 const calculateAge = (dob) => {
   const dateOfBirth = new Date(dob);
-  const ageInSeconds = Date.now() - dateOfBirth.getTime();
+  const ageInMilliseconds = Date.now() - dateOfBirth.getTime();
 
-  var age_dateFormat = new Date(ageInSeconds);
+  var age_dateFormat = new Date(ageInMilliseconds);
   var year = age_dateFormat.getUTCFullYear();
   var age = Math.abs(year - 1970);
 

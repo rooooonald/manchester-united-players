@@ -14,13 +14,6 @@
     "dob": "1994-07-17"
   },
   {
-    "number": 3,
-    "name": "Eric Bailly",
-    "nationality": "Ivory Coast",
-    "position": "Centre-back",
-    "dob": "1994-04-12"
-  },
-  {
     "number": 4,
     "name": "Sofyan Amrabat",
     "nationality": "Morocco",
@@ -89,13 +82,6 @@
     "nationality": "Denmark",
     "position": "Midfielder",
     "dob": "1992-02-14"
-  },
-  {
-    "number": 15,
-    "name": "Sergio Reguilon",
-    "nationality": "Spain",
-    "position": "Full-back",
-    "dob": "1996-12-16"
   },
   {
     "number": 16,
@@ -167,13 +153,7 @@
     "position": "Winger",
     "dob": "2000-03-25"
   },
-  {
-    "number": 26,
-    "name": "Dean Henderson",
-    "nationality": "England",
-    "position": "Goalkeeper",
-    "dob": "1997-03-12"
-  },
+
   {
     "number": 28,
     "name": "Facundo Pellistri",
@@ -187,14 +167,6 @@
     "nationality": "England",
     "position": "Full-back",
     "dob": "1997-11-26"
-  },
-
-  {
-    "number": 34,
-    "name": "Donny van de Beek",
-    "nationality": "Netherlands",
-    "position": "Midfielder",
-    "dob": "1997-04-18"
   },
   {
     "number": 35,
@@ -216,13 +188,6 @@
     "nationality": "Scotland",
     "position": "Midfielder",
     "dob": "1996-12-08"
-  },
-  {
-    "number": 46,
-    "name": "Hannibal Mejbri",
-    "nationality": "Tunisia",
-    "position": "Midfielder",
-    "dob": "2003-01-21"
   },
   {
     "number": 47,

@@ -1,6 +1,6 @@
 {
   "name": "manchester-united-players",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Manchester United's current first team players' information.",
   "main": "index.js",
   "scripts": {
